@@ -5,7 +5,7 @@
 ## List Kontributor
 
 -   [Muhammad Luqmaan - 123230070]
--   [Salman Faris - ]
+-   [Salman Faris - 123230024]
 
 **Peta Struktur Interaktif & Pemodelan Kontak Fluida**
 
