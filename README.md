@@ -10,6 +10,7 @@
 -   [Valentino Abinata - 123230013]
 -   [Rheza Priya Anargya - 123230032]
 -   [Gusti Rama - 123230040]
+-   [Bintoro - 123230059]
 
 **Peta Struktur Interaktif & Pemodelan Kontak Fluida**
 
@@ -27,10 +28,11 @@ Website ini adalah aplikasi berbasis Streamlit yang dirancang untuk visualisasi 
     -   **Laporan PDF**: Unduh laporan profesional berisi statistik, perhitungan volumetrik, dan snapshot grafik 2D/3D.
     -   **Grid Data**: Unduh hasil interpolasi (X, Y, Z) dalam format `.csv` untuk analisis lanjut di software lain (seperti Petrel/QGIS).
     -   **Ringkasan Teks**: Unduh ringkasan parameter utama dalam format `.txt`.
-
+    
 ## Instalasi
 
 1.  **Clone repositori** (jika ada):
+
     ```bash
     git clone <repository-url>
     cd 3d-map
@@ -45,18 +47,20 @@ Website ini adalah aplikasi berbasis Streamlit yang dirancang untuk visualisasi 
 ## Penggunaan
 
 1.  **Jalankan aplikasi**:
+
     ```bash
     streamlit run app.py
     ```
 
 2.  **Input Data**:
-    -   **Opsi A (Manual)**: Gunakan panel **Input Manual** untuk menambahkan titik satu per satu.
-    -   **Opsi B (Upload)**: Buka panel **Manajemen File**, upload file `.csv` atau `.xlsx` (wajib kolom X, Y, Z), lalu klik "Muat Data".
-    -   **Opsi C (Demo)**: Buka panel **Reset & Demo** dan klik **Load Data Demo Internal**.
+
+    - **Opsi A (Manual)**: Gunakan panel **Input Manual** untuk menambahkan titik satu per satu.
+    - **Opsi B (Upload)**: Buka panel **Manajemen File**, upload file `.csv` atau `.xlsx` (wajib kolom X, Y, Z), lalu klik "Muat Data".
+    - **Opsi C (Demo)**: Buka panel **Reset & Demo** dan klik **Load Data Demo Internal**.
 
 3.  **Eksplorasi**:
-    -   Pindah antara tab **Peta Kontur 2D**, **Model 3D**, dan **Data Mentah** untuk melihat visualisasi yang berbeda.
-    -   Sesuaikan slider **Gas-Oil Contact** dan **Water-Oil Contact** di sidebar untuk melihat bagaimana mereka berpotongan dengan struktur reservoir.
+    - Pindah antara tab **Peta Kontur 2D**, **Model 3D**, dan **Data Mentah** untuk melihat visualisasi yang berbeda.
+    - Sesuaikan slider **Gas-Oil Contact** dan **Water-Oil Contact** di sidebar untuk melihat bagaimana mereka berpotongan dengan struktur reservoir.
 
 ## Dependensi
 

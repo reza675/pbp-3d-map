@@ -7,3 +7,4 @@ scipy
 datetime
 fpdf
 kaleido
+reportlab
