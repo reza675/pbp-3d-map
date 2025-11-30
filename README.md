@@ -19,6 +19,7 @@
 -   [Muhammad Diyan Alkautsar - 123230019]
 -   [Andhiko Sakti Wibowo - 123230228]
 -   [Andin Muhammad Nurjalin - 123230201]
+-   [Rasyid Tri Sasongko] - 12320043]
 
 **Peta Struktur Interaktif & Pemodelan Kontak Fluida**
 
